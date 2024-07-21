@@ -1,7 +1,7 @@
 public class Square_Root {
     public static void main(String[] args) {
-        int n = 40;
-        int p = 3;
+        int n = 50;
+        int p = 4;
         System.out.println(Sqrt(n,p));
     }
     public static double Sqrt(int n, int p){
