@@ -2,7 +2,7 @@ public class Square_Root {
     public static void main(String[] args) {
         int n = 50;
         int p = 4;
-        System.out.println(Sqrt(n,p));
+        System.out.printf("%.4f",Sqrt(n,p));
     }
     public static double Sqrt(int n, int p){
         int s = 0;
